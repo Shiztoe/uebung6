@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  account_id: 1
+  account_ammount: 9.99
+
+two:
+  account_id: 1
+  account_ammount: 9.99

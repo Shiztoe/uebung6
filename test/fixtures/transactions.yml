@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  transaction_id: 1
+  t_amount: 9.99
+
+two:
+  transaction_id: 1
+  t_amount: 9.99
